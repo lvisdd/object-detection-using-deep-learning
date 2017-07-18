@@ -1,5 +1,3 @@
-# object-detection-using-deep-learning
-
 ### こんにちは！
 
 
