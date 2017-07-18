@@ -24,12 +24,21 @@
 
 ### OpenFace
 
-* Googleの論文<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf">FaceNet: A Unified Embedding for Face Recognition and Clustering
-</a> を元に、カーネギーメロン大学の学生が実装したオープンソースの顔認識プロジェクト
+* <a href="https://cmusatyalab.github.io/openface/">OpenFace: Free and open source face recognition with deep neural networks.</a>
+
+[![](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)
 
 
 ---
 
+
+### OpenFace
+
+* <a href="https://github.com/TadasBaltrusaitis/OpenFace">OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.</a>
+
+[![CLNF multiple face tracking](http://img.youtube.com/vi/V7rV0uy7heQ/0.jpg)](https://www.youtube.com/watch?v=V7rV0uy7heQ)
+
+---
 
 ### Microsoft Cognitive Services
 
@@ -77,7 +86,7 @@
 
 ### VNect
 
-* <a href~"VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera">VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera</a>
+* <a href="http://gvv.mpi-inf.mpg.de/projects/VNect/">VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera</a>
 
 [![VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera - SIGGRAPH2017
 ](http://img.youtube.com/vi/W1ZNFfftx2E/0.jpg)](https://www.youtube.com/watch?v=W1ZNFfftx2E)
