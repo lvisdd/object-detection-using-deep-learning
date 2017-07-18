@@ -26,6 +26,8 @@
 
 * <a href="https://cmusatyalab.github.io/openface/">OpenFace: Free and open source face recognition with deep neural networks.</a>
 
+[![Overview](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)]
+
 
 ---
 
