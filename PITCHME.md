@@ -37,7 +37,7 @@
 * <a href="https://azure.microsoft.com/ja-jp/services/cognitive-services/face/">Face API - 顔認識</a>
 * <a href="https://azure.microsoft.com/ja-jp/services/cognitive-services/emotion/">Emotion API — 感情表現の検出</a>
 * <a href="https://azure.microsoft.com/ja-jp/services/cognitive-services/computer-vision/">Computer Vision — 画像処理および画像分析</a>
-* <a href="https://azure.microsoft.com/ja-jp/services/cognitive-services/video-indexer/">Video Indexer</a>
+* <a href="https://azure.microsoft.com/ja-jp/services/cognitive-services/video-indexer/">Video Indexer — ビデオから洞察を得る</a>
 
 
 ---
