@@ -18,7 +18,15 @@
 
 ### 顔認識
 
-* OpenPose: Free and open source face recognition with deep neural networks
+* <a href="https://cmusatyalab.github.io/openface/">OpenPose: Free and open source face recognition with deep neural networks</a>
+
+---
+
+
+### OpenPose
+
+* Googleの論文<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1A_089.pdf">FaceNet: A Unified Embedding for Face Recognition and Clustering
+</a> を元に、カーネギーメロン大学の学生が実装したオープンソースの顔認識プロジェクト
 
 ---
 
