@@ -18,7 +18,7 @@
 
 ### 顔認識
 
-* <a href="https://cmusatyalab.github.io/openface/">OpenPose: Free and open source face recognition with deep neural networks</a>
+* <a href="https://cmusatyalab.github.io/openface/">OpenFace: Free and open source face recognition with deep neural networks</a>
 
 ---
 
@@ -40,10 +40,17 @@
 
 ### ボーン検出
 
-* OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library
+* <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose">OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library</a>
 
 ---
 
+
+### OpenPose
+
+![Body + Hands + Face Estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/pose_face_hands.gif "Body + Hands + Face Estimation")
+![Body Estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/dance.gif "Body Estimation")
+
+---
 
 ### おわり
 
