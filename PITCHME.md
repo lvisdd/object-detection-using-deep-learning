@@ -47,8 +47,8 @@
 
 ### OpenPose
 
-![Body + Hands + Face Estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/pose_face_hands.gif "Body + Hands + Face Estimation")
-![Body Estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/media/dance.gif "Body Estimation")
+[![Realtime Multi-Person 2D Human Pose Estimation using Part Affinity Fields, CVPR 2017 Oral
+](http://img.youtube.com/vi/pW6nZXeWlGM/0.jpg)](https://www.youtube.com/watch?v=pW6nZXeWlGM)
 
 ---
 
