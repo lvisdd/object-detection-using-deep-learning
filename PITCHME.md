@@ -9,6 +9,8 @@
 
 ### はじめに
 
+[GitPitch](https://gitpitch.com/lvisdd/object-detection-using-deep-learning "GitPitch")
+
 
 ---
 
