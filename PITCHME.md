@@ -26,7 +26,8 @@
 
 * <a href="https://cmusatyalab.github.io/openface/">OpenFace: Free and open source face recognition with deep neural networks.</a>
 
-[![Overview](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)
+[![Overview
+](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)
 
 
 ---
@@ -36,7 +37,8 @@
 
 * <a href="https://github.com/TadasBaltrusaitis/OpenFace">OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.</a>
 
-[![CLNF multiple face tracking](http://img.youtube.com/vi/V7rV0uy7heQ/0.jpg)](https://www.youtube.com/watch?v=V7rV0uy7heQ)
+[![CLNF multiple face tracking
+](http://img.youtube.com/vi/V7rV0uy7heQ/0.jpg)](https://www.youtube.com/watch?v=V7rV0uy7heQ)
 
 
 ---
@@ -63,7 +65,8 @@
 
 * <a href="https://pjreddie.com/darknet/yolo/">YOLO: Real-Time Object Detection</a>
 
-[![YOLO v2](http://img.youtube.com/vi/VOC3huqHrss/0.jpg)](https://www.youtube.com/watch?v=VOC3huqHrss)
+[![YOLO v2
+](http://img.youtube.com/vi/VOC3huqHrss/0.jpg)](https://www.youtube.com/watch?v=VOC3huqHrss)
 
 ---
 
