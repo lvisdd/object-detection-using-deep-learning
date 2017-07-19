@@ -9,8 +9,9 @@
 
 ### はじめに
 
+<p align="right">
 [GitPitch版スライド資料](https://gitpitch.com/lvisdd/object-detection-using-deep-learning "GitPitch")
-
+</p>
 
 ---
 
@@ -36,8 +37,6 @@
 
 <img src="https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg" width="75%">
 
-[![Overview](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)](https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg)
-
 
 ---
 
@@ -45,6 +44,8 @@
 ### OpenFace
 
 * [OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.](https://github.com/TadasBaltrusaitis/OpenFace)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V7rV0uy7heQ" frameborder="0" allowfullscreen></iframe>
 
 [![CLNF multiple face tracking
 ](http://img.youtube.com/vi/V7rV0uy7heQ/0.jpg)](https://www.youtube.com/watch?v=V7rV0uy7heQ)
