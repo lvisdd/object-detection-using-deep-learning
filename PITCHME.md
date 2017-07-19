@@ -35,7 +35,7 @@
 
 * [OpenFace: Free and open source face recognition with deep neural networks.](https://cmusatyalab.github.io/openface/)
 
-<img src="https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg" width="75%">
+<img src="https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg" width="600">
 
 ---
 
