@@ -10,7 +10,7 @@
 ### はじめに
 
 <p align="right">
-[GitPitch版スライド資料](https://gitpitch.com/lvisdd/object-detection-using-deep-learning "GitPitch")
+<a href="https://gitpitch.com/lvisdd/object-detection-using-deep-learning">GitPitch版スライド資料</a>
 </p>
 
 ---
