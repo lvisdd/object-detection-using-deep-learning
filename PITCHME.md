@@ -37,7 +37,6 @@
 
 <img src="https://raw.githubusercontent.com/cmusatyalab/openface/master/images/summary.jpg" width="75%">
 
-
 ---
 
 
@@ -46,10 +45,6 @@
 * [OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.](https://github.com/TadasBaltrusaitis/OpenFace)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V7rV0uy7heQ" frameborder="0" allowfullscreen></iframe>
-
-[![CLNF multiple face tracking
-](http://img.youtube.com/vi/V7rV0uy7heQ/0.jpg)](https://www.youtube.com/watch?v=V7rV0uy7heQ)
-
 
 ---
 
@@ -75,8 +70,7 @@
 
 * [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 
-[![YOLO v2
-](http://img.youtube.com/vi/VOC3huqHrss/0.jpg)](https://www.youtube.com/watch?v=VOC3huqHrss)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOC3huqHrss" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -91,9 +85,7 @@
 
 * [OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-[![Realtime Multi-Person 2D Human Pose Estimation using Part Affinity Fields, CVPR 2017 Oral
-](http://img.youtube.com/vi/pW6nZXeWlGM/0.jpg)](https://www.youtube.com/watch?v=pW6nZXeWlGM)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pW6nZXeWlGM" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -102,8 +94,7 @@
 
 * [VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera](http://gvv.mpi-inf.mpg.de/projects/VNect/)
 
-[![VNect: Real-time 3D Human Pose Estimation with a Single RGB Camera - SIGGRAPH2017
-](http://img.youtube.com/vi/W1ZNFfftx2E/0.jpg)](https://www.youtube.com/watch?v=W1ZNFfftx2E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1ZNFfftx2E" frameborder="0" allowfullscreen></iframe>
 
 ---
 
