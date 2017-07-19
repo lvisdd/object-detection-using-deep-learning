@@ -57,12 +57,15 @@
 * <a href="https://azure.microsoft.com/ja-jp/services/cognitive-services/computer-vision/">Computer Vision — 画像処理および画像分析</a>
 * <a href="https://azure.microsoft.com/ja-jp/services/cognitive-services/video-indexer/">Video Indexer — ビデオから洞察を得る</a>
 
-<p align="center">
-<a href="https://blogs.msdn.microsoft.com/bluesky/2016/05/06/microsoft-cognitive-services-api-overview/">Microsoft Cognitive Services を始める ～ 全21種のサービス概説と開発準備</a>
-</p>
-
 ---
 
+
+### Microsoft Cognitive Services
+
+
+* <a href="https://blogs.msdn.microsoft.com/bluesky/2016/05/06/microsoft-cognitive-services-api-overview/">Microsoft Cognitive Services を始める ～ 全21種のサービス概説と開発準備</a>
+
+---
 
 ### 物体検出
 
