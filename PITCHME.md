@@ -105,6 +105,27 @@
 
 ---
 
+
+### AutoML/NASNet
+
+* [AutoML for large scale image classification and object detection](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
+
+* [Google、人工知能に機械学習モデルの設計を生成させる「AutoML」で設計した大規模な画像分類と物体検出に適応するアーキテクチャ「NASNet」を論文発表。人間が設計してきたモデルより高精度](http://shiropen.com/2017/11/03/29235)
+
+---
+
+
+### デモ
+
+* [Tensorflow Object Detection and OpenPose](http://gvv.mpi-inf.mpg.de/projects/VNect/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-G-zsZpU7Q" frameborder="0" allowfullscreen></iframe>
+
+Thanks.
+
+* Original Movie : [BA(Hons) Dance & Choreography](https://vimeo.com/250755253)
+
+---
 ### おわり
 
 
