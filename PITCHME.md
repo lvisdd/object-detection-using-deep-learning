@@ -117,7 +117,7 @@
 
 ### デモ
 
-* [Tensorflow Object Detection and OpenPose](http://gvv.mpi-inf.mpg.de/projects/VNect/)
+* [Tensorflow Object Detection and OpenPose](https://www.youtube.com/embed/Z-G-zsZpU7Q)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z-G-zsZpU7Q" frameborder="0" allowfullscreen></iframe>
 
