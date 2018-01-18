@@ -116,6 +116,9 @@
 
 > Googlによれば、すでにディズニーがこのシステムを利用してオンラインストアにおける検索機能の強化に成功している。ストアの訪問者がたとえば『カーズ』に登場するキャラクター、ライトニング・マックイーンを検索した場合、実際にその名前でタグづけされている商品だけでなく、ストア内のおしゃべりなレーシングカーの画像を横断的にピックアップできる。
 
+* [Cloud AutoML: Making AI accessible to every business](https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GbLQE2C181U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ---
