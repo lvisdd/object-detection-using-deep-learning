@@ -137,7 +137,7 @@
 
 * [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
-<img src="https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/img/kites_detections_output.jpg" width="600">
+<img src="https://raw.githubusercontent.com/tensorflow/models/master/research/object_detection/g3doc/img/kites_detections_output.jpg" width="600">
 
 ---
 
