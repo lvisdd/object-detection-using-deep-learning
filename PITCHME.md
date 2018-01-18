@@ -112,12 +112,16 @@
 
 * [グーグル、機械学習モデルの構築を自動化する「Cloud AutoML」を発表](https://japan.zdnet.com/article/35113322/)
 
+---
+
+
+### AutoML
+
 * [GoogleのAutoMLで誰もが機械学習を利用できる――プログラミング不要、ビジネス利用へも](http://jp.techcrunch.com/2018/01/18/2018-01-17-googles-automl-lets-you-train-custom-machine-learning-models-without-having-to-code/)
 
 > Googlによれば、すでにディズニーがこのシステムを利用してオンラインストアにおける検索機能の強化に成功している。ストアの訪問者がたとえば『カーズ』に登場するキャラクター、ライトニング・マックイーンを検索した場合、実際にその名前でタグづけされている商品だけでなく、ストア内のおしゃべりなレーシングカーの画像を横断的にピックアップできる。
 
 ---
-
 
 ### Cloud AutoML
 
